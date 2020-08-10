@@ -7,13 +7,13 @@
 - <b>Bratko, I. (2011)</b>: Prolog Programming for Artificial Intelligence, 4th edition, Pearson. 
 
 # Resources
-- <b>FF planning system </b>: One of the best planning systems that utilizes heuristic search 
-  - https://fai.cs.uni-saarland.de/hoffmann/ff.html 
-- <b>A free constraint solver</b>: https://www.gecode.org
-- <b>A free prolog with constraint solver</b>: https://www.swi-prolog.org 
-- <b>Bayesian network solver</b>: http://www.cs.man.ac.uk/~gbrown/bayes_nets/ 
-- <b>Problog is probably a better system to work with</b>: https://dtai.cs.kuleuven.be/problog
-- <b>For planning with uncertainty, systems at </b> https://www.cs.nmsu.edu/~tson/systems.html is very good 
-- <b>See: http://ipc02.icaps-conference.org for temporal planning </b> Two very good systems competed in this competition:
-  - http://www.cs.toronto.edu/tlplan/tlplan.shtml 
-  - https://www.aaai.org/ojs/index.php/aimagazine/article/view/1581
+1.  <b>FF planning system </b>: One of the best planning systems that utilizes heuristic search 
+    - https://fai.cs.uni-saarland.de/hoffmann/ff.html 
+2. <b>A free constraint solver</b>: https://www.gecode.org
+    - <b>A free prolog with constraint solver</b>: https://www.swi-prolog.org 
+3. <b>Bayesian network solver</b>: http://www.cs.man.ac.uk/~gbrown/bayes_nets/ 
+    - <b>Problog is probably a better system to work with</b>: https://dtai.cs.kuleuven.be/problog
+    - <b>For planning with uncertainty, systems at </b> https://www.cs.nmsu.edu/~tson/systems.html is very good 
+4. <b>See: http://ipc02.icaps-conference.org for temporal planning </b> Two very good systems competed in this competition:
+    - http://www.cs.toronto.edu/tlplan/tlplan.shtml 
+    - https://www.aaai.org/ojs/index.php/aimagazine/article/view/1581
